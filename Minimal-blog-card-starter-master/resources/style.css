@@ -7,10 +7,11 @@ body{
 .author-info{
     place-self: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .container{
     width: 378px;
-    height: 410px;
+    height: 497px;
     background-color: #f4f7f6;
     border-radius: 10px;
     /* place-content: center; */
